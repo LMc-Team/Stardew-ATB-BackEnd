@@ -1,6 +1,6 @@
 {
   "functions": {
-    "public/lanzou.php": {
+    "lanzou.php": {
       "runtime": "vercel-php@0.3.1",
       "excludeFiles": "{test/**}",
       "memory": 256,
