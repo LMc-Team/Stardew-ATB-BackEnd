@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/lanzou.php": {
-      "runtime": "vercel-php@0.3.2",
+      "runtime": "vercel-php@0.4.0",
       "excludeFiles": "{api/**}",
       "memory": 256,
       "maxDuration": 5
